@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pracify/static/css/main.99ffd370.chunk.css",
+    "main.js": "/pracify/static/js/main.74ce3ea2.chunk.js",
+    "main.js.map": "/pracify/static/js/main.74ce3ea2.chunk.js.map",
+    "runtime-main.js": "/pracify/static/js/runtime-main.b4828a80.js",
+    "runtime-main.js.map": "/pracify/static/js/runtime-main.b4828a80.js.map",
+    "static/css/2.74c02967.chunk.css": "/pracify/static/css/2.74c02967.chunk.css",
+    "static/js/2.29e4c0fe.chunk.js": "/pracify/static/js/2.29e4c0fe.chunk.js",
+    "static/js/2.29e4c0fe.chunk.js.map": "/pracify/static/js/2.29e4c0fe.chunk.js.map",
+    "index.html": "/pracify/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/pracify/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.99ffd370.chunk.css.map": "/pracify/static/css/main.99ffd370.chunk.css.map",
+    "static/js/2.29e4c0fe.chunk.js.LICENSE.txt": "/pracify/static/js/2.29e4c0fe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pracify/static/media/footer.3fc7b986.png",
+    "static/media/lady.b9199958.jpg": "/pracify/static/media/lady.b9199958.jpg",
+    "static/media/plant.efbd04e6.png": "/pracify/static/media/plant.efbd04e6.png",
+    "static/media/top-design.317690fe.png": "/pracify/static/media/top-design.317690fe.png",
+    "static/media/top-flower.71ea1be1.png": "/pracify/static/media/top-flower.71ea1be1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4828a80.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.29e4c0fe.chunk.js",
+    "static/css/main.99ffd370.chunk.css",
+    "static/js/main.74ce3ea2.chunk.js"
+  ]
+}
